@@ -1,4 +1,4 @@
-👀 what if stackoverflow never existed 👀
+- learning python
 
 
 <!---
