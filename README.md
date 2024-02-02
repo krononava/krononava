@@ -1,8 +1,11 @@
-### Personal Info
-- learning python
-- Malaysian student
+# Programming Language
+I love python. Everything that you need are already there, created by someone else.
 
-<!---
-lenix3347/lenix3347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Occupation History
+Student, majoring in computer science
+
+# Interest
+Discord bot, it is easy to get into with many available resources
+
+# Current project
+None
