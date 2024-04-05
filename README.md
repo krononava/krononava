@@ -1,11 +1,13 @@
 # Programming Language
-I love python. Everything that you need are already there, created by someone else.
+Python, first language that got me into programming
 
 # Occupation History
-Student, majoring in computer science
+Student, pursuing data science degree
 
-# Interest
-Discord bot, it is easy to get into with many available resources
+# Hobby
+Discord bot\
+NixOS\
+Vim
 
 # Current project
 None
